@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "legacy_uid": "45bd5ede-429f-34a0-1018-f9bd10d166d3",
+  "instructors": {
+    "content": [
+      "4188f62e-353d-9a45-df34-1d869485e93a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9ac98797-0871-f8f4-da20-e5111c084ba7",
+    "website": "21w-755-writing-and-reading-short-stories-spring-2012"
+  },
+  "course_title": "Writing and Reading Short Stories",
+  "course_description": "This course is an introduction to the short story. Students will write stories and short descriptive sketches. Students will read great short stories and participate in class discussions of students' writing and the assigned stories in their historical and social contexts.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "21W.757",
+  "primary_course_number": "21W.755",
+  "course_image_thumbnail": {
+    "content": "8f90111e-d34a-98ff-dbab-3e99346a3a23",
+    "website": "21w-755-writing-and-reading-short-stories-spring-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "81851f1a-be66-4e06-a02d-09ae86ceea85",
+  "site_short_id": "21w.755-spring-2012",
+  "site_url_path": "courses/21w-755-writing-and-reading-short-stories-spring-2012",
+  "title": "Course Metadata"
+}
